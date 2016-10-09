@@ -24,6 +24,8 @@ For age and other integer values, please use the number keys on the top of the k
 ## Changing the default sleep timer and number of attributes to skip
 Pressing the Windows key and 'o' together will bring up an options menu that can be used to set the sleep timer and the number of attributes to skip. The first is useful if NVivo is running slow to allow a wait period inbetween opening the node properties and moving  the selection focus to the attribute values. The second is useful if, for example, you are adding attributes for a second or third wave of interviews and you would like to skip all the attributes from the first wave so that the focus moves straight-away to where the second wave attributes start.
 
+[[https://github.com/abers/NVivo.faster.attribute.values.input/blob/master/img/options.png?raw=true|alt=options.menu]]
+
 ## Exiting, pausing, and quitting
 Pressing the Windows key and enter on the Numpad together will exit the faster attribute input mode. 
 
