@@ -52,5 +52,5 @@ Example of after hitting winkey+p if the options menu has been used to skip to t
 ## Future plans
 
 1. Add tickbox to options menu to set whether node / source already has a classification assigned.
-2. Add option to specify total number of attributes and hotkey to use variable to reset all variables to 'Unassigned'. 
+2. Add option to specify total number of attributes and hotkey to use variable to reset all attributes to 'Unassigned'. (Use case: needing to clear attribute values for a node / source after inputting the values for another node / source by mistake)
 
