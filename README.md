@@ -34,15 +34,19 @@ Pressing 'pause' at any time (located top right of the keyboard) will pause the 
 ## Examples / Screenshots
 
 Node selected before pressing Windows key and 'p' together:
+
 ![Alt text](https://github.com/abers/NVivo.faster.attribute.values.input/blob/master/img/example-selected.png?raw=true)
 
 After hitting winkey+p - Node properties open with first attribute's value field selected, now ready for using numpad to enter attribute values:
+
 ![Alt text](https://github.com/abers/NVivo.faster.attribute.values.input/blob/master/img/ready.png?raw=true)
 
-Using the options menu (winkey+o) to set the options and set to skip seven attributes: 
+Using the options menu (winkey+o) to set the options and set to skip seven attributes:
+
 ![Alt text](https://github.com/abers/NVivo.faster.attribute.values.input/blob/master/img/skip-example.png?raw=true)
 
 Example of after hitting winkey+p if the options menu has been used to skip to the inital and wave a attributes (Skip Attributes = 7):
+
 ![Alt text](https://github.com/abers/NVivo.faster.attribute.values.input/blob/master/img/ready2.png?raw=true)
 
 
