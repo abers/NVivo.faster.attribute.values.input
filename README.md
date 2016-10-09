@@ -15,7 +15,7 @@ Please wait for the first part of the script to run, and importantly, please don
 
 Each number on the numpad will select the corresponding attribute value. For example, if after 'Not Applicable' and 'Unassigned' the second value is "Turner" then numpad 2 will set the value to "Turner" and move the selection to the next attribute value field 
 
-Pressing enter on the numpad will skip back up one attribute, handy if you accidently chose a wrong value. Additionally, pressing the plus on the numpad will skip to the next attribute. Pressing star on the numpad will set the attribute value to Not Applicable. Finally, pressing subtract on the numpad will return the attribute value back to unassigned.
+Pressing enter on the numpad will skip back up one attribute, handy if you accidently chose a wrong value. On occassion, when entering the first attribute value, the script will pick the wrong value if this happens press enter on the numpad to reselect the first value, press the number key again, and the script should work as expected again. Additionally, pressing the plus on the numpad will skip to the next attribute. Pressing star on the numpad will set the attribute value to Not Applicable. Finally, pressing subtract on the numpad will return the attribute value back to unassigned.
 
 NVivo for boolean attributes places the No value before the Yes value meaning that they are the opposite way around than you might expect. 
 
