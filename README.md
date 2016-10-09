@@ -33,6 +33,8 @@ Pressing 'pause' at any time (located top right of the keyboard) will pause the 
 
 ## Examples / Screenshots
 
+[Click-here](https://www.youtube.com/watch?v=qeV-UBqjFBw) for link to YouTube video of the script in action. 
+
 Node selected before pressing Windows key and 'p' together:
 
 ![Alt text](https://github.com/abers/NVivo.faster.attribute.values.input/blob/master/img/example-selected.png?raw=true)
